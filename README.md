@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6dea508918e003066628ebf84185d19b4f4acee3461d8d5c96d78b23f99f32f4
-size 9
+Projekt
+
+Dokumentacja projektu znajduje się pod adresem https://docs.google.com/document/d/13SLC6Otsjm2fZ2MntUk2a8v5WLOKpOS1PdDuxYipPak/edit?usp=sharing.
