@@ -1,3 +1,3 @@
-Projekt
-
-Dokumentacja projektu znajduje się pod adresem https://docs.google.com/document/d/13SLC6Otsjm2fZ2MntUk2a8v5WLOKpOS1PdDuxYipPak/edit?usp=sharing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:965ac30bf0f39e536509e384bcb75eaf33e51b7d587a715cb7b7134584d24ce3
+size 155
