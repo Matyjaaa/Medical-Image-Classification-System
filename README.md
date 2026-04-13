@@ -18,3 +18,11 @@ Aplikacja okienkowa (GUI) służąca do automatycznej analizy i klasyfikacji obr
 * **Baza danych:** JSON
 
 ** Projekt został zrealizowany w 5-osobowym zespole inżynierskim.** 
+
+## Ważna informacja: Git LFS
+Ze względu na obecność w repozytorium próbek obrazów medycznych o dużej rozdzielczości i wadze, projekt korzysta z **Git Large File Storage (LFS)**. 
+
+Aby poprawnie pobrać wszystkie pliki graficzne (bez których testowanie modelu nie będzie możliwe), przed sklonowaniem repozytorium upewnij się, że masz zainstalowane rozszerzenie Git LFS:
+```bash
+git lfs install
+git clone <link_do_repozytorium>
